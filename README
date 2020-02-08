@@ -1,0 +1,18 @@
+
+UFO Invasion
+============
+
+This is a very old project that I did when I was 15 (that's around 2005).
+I was learning to use DirectDraw 7, just before getting started on D3D8
+and 3D rendering stuff.
+
+It was inspired in Chicken Invaders The Next Wave that came out a couple
+years before. It features MIDI music, some pre-rendered 3D graphics, and
+Photoshop rendered menu text.
+
+The engine is based on VB6 and its Direct Draw 7 bindings (that IIRC are
+native to VB6). Uses Direct Music to play MIDI files and experiments
+with a custom data pack format.
+
+Of course it's in spanish and most of the code is too :)
+
